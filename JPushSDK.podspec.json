@@ -34,6 +34,6 @@
   ],
   "requires_arc": true,
   "xcconfig": {
-    "LIBRARY_SEARCH_PATHS": "$(PODS_ROOT)/JPushSDK/lib"
+    "LIBRARY_SEARCH_PATHS": "$(PODS_ROOT)/lib"
   }
 }
